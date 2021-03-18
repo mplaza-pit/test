@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 1
+## Welcome to GitHub Pages 2
 
 You can use the [editor on GitHub](https://github.com/mplaza-pit/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 `git clone`
 
-[Enlace2](index2.md)
+[Enlace1](index.md)
 
 ### Markdown
 
