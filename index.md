@@ -6,7 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 `git clone`
 
-[Enlace2](index2.md)
+### [Enlace2](index2.md)
+
+Al índice 2
+
 
 ### Markdown
 
